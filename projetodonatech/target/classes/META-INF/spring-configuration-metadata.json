@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "com.donatech.projetodonatech.properties.StorageProperties",
+      "sourceType": "com.donatech.projetodonatech.properties.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "description": "Folder location for storing files",
+      "sourceType": "com.donatech.projetodonatech.properties.StorageProperties"
+    }
+  ],
+  "hints": []
+}
